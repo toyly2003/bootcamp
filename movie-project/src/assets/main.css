@@ -1,0 +1,9 @@
+@import './base.css';
+@import "tailwindcss";
+
+#app {
+  min-width: full;
+  font-weight: normal;
+}
+
+
